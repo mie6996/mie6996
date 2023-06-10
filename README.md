@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm <a href="fb.com/mie6996" target="_blank"> Phat Nguyen </a></h1>
+[[<h1 align="center">Hi there 👋, I'm <a href="fb.com/mie6996" target="_blank"> Phat Nguyen </a></h1>
 
 - 🌱 I’m currently learning **.Net Core MVC, .Net Web API, ReactJS**
 
@@ -97,3 +97,4 @@
   </tr>
 </table>
 1
+](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
