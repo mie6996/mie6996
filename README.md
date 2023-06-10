@@ -1,10 +1,9 @@
-<h1 align="center">Hi there 👋, I'm <a href="http://www.nguyenthanhdung.tk" target="_blank"> Nguyen Dung </a></h1>
+<h1 align="center">Hi there 👋, I'm <a href="fb.com/mie6996" target="_blank"> Phat Nguyen </a></h1>
 
 - 🌱 I’m currently learning **.Net Core MVC, .Net Web API, ReactJS**
 
-- 💬 Ask me about **Javascript, ASP.NET, SQL Server**
+- 💬 Ask me about **Javascript, JAVA**
 
-- 📫 All of my projects are available at **[nguyenthanhdung.tk](http://nguyenthanhdung.tk/)**
 
 
 <h2 align="center">Connect with me:</h2>
