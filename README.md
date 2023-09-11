@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning **Spring boot, ReactJS**
 
-- 💬 Ask me about **Javascript, Java**
+- 💬 Ask me about **Javascript, TypeScript, Java, Azure Devops**
 
 
 <h2 align="center">Connect with me:</h2>
