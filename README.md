@@ -1,8 +1,8 @@
 <h1 align="center">Hi there 👋, I'm <a href="https://fb.com/mie6996" target="_blank"> Phat Nguyen </a></h1>
 
-- 🌱 I’m currently learning **Spring boot, ReactJS**
+- 🌱 I’m currently learning **Spring boot, ReactJS, NextJS, NodeJS**
 
-- 💬 Ask me about **Javascript, TypeScript, Java, Azure Devops**
+- 💬 Ask me about **Javascript, TypeScript, Java, Azure DevOps, SEO**
 
 
 <h2 align="center">Connect with me:</h2>
@@ -46,6 +46,8 @@
         src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
     <img alt="postgres"
         src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+    <img alt="sqlserver"
+        src="https://img.shields.io/badge/sqlserver-316192?style=for-the-badge&logo=sqlserver&logoColor=white" />
 </div>
 
 <h2 align="center">Tools:</h2>
