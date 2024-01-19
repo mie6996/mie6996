@@ -1,8 +1,8 @@
 <h1 align="center">Hi there 👋, I'm <a href="https://fb.com/mie6996" target="_blank"> Phat Nguyen </a></h1>
 
-- 🌱 I’m currently working with **Spring boot**
+- 🌱 I’m currently working with **Spring Boot**
 
-- 💬 Ask me about **Java, TypeScript, NextJS, SEO**
+- 💬 Ask me about **Java, Spring Boot, TypeScript, NextJS, SEO**
 
 
 <h2 align="center">Connect with me:</h2>
