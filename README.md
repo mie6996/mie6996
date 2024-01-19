@@ -1,8 +1,8 @@
 <h1 align="center">Hi there 👋, I'm <a href="https://fb.com/mie6996" target="_blank"> Phat Nguyen </a></h1>
 
-- 🌱 I’m currently learning **Spring boot, ReactJS, NextJS, NodeJS**
+- 🌱 I’m currently working with **Spring boot**
 
-- 💬 Ask me about **Javascript, TypeScript, Java, Azure DevOps, SEO**
+- 💬 Ask me about **Java, TypeScript, NextJS, SEO**
 
 
 <h2 align="center">Connect with me:</h2>
@@ -13,21 +13,23 @@
             src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </div>
 
-<h2 align="center">Technology Stack <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+<h2 align="center">Technology Stack<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 </h2>
 <div align="center">
-    <img alt="nodejs"
-        src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-    <img alt="TailwindCSS"
-        src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-    <img alt="js"
-        src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
-    <img alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+    <img alt="java"
+        src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
     <img alt="spring"
         src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
-    <img alt="spring"
+    <img alt="typescript"
+        src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
+    <img alt="nextjs"
+        src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+     <img alt="react" 
+        src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+    <img alt="TailwindCSS"
+        src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+    <img alt="Microsoft_Azure"
         src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
-
 </div>
 
 <h2 align="center">Languages</h2>
@@ -46,8 +48,14 @@
         src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
     <img alt="postgres"
         src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-    <img alt="sqlserver"
+    <img alt="sql-server"
         src="https://img.shields.io/badge/sqlserver-316192?style=for-the-badge&logo=sqlserver&logoColor=white" />
+      <img alt="Cockroach"
+        src="https://img.shields.io/badge/Cockroach%20Labs-6933FF?style=for-the-badge&logo=Cockroach%20Labs&logoColor=white" />
+    <img alt="Redis"
+        src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white" />
+    
+    
 </div>
 
 <h2 align="center">Tools:</h2>
