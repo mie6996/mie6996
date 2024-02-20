@@ -71,5 +71,9 @@
                 alt="mie6996" /></td>
         <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=mie6996&show_icons=true&theme=dark&locale=en&layout=compact"
                 alt="mie6996" /></td>
+        <td>
+            <a href="https://app.daily.dev/mie6996"><img src="https://api.daily.dev/devcards/v2/EPxInkbXmMUtyNfCACb8s.png?r=sg9&type=wide" width="652" alt="mie6996's Dev Card"/></a>
+        </td>
     </tr>
 </table>
+
