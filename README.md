@@ -69,7 +69,7 @@
     <tr>
         <td><img src="https://github-readme-stats.vercel.app/api?username=mie6996&show_icons=true&theme=dark&locale=en"
                 alt="mie6996" /></td>
-        <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=mie6996&show_icons=true&theme=dark&locale=en&layout=compact"
+        <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=mie6996&show_icons=true&theme=dark&locale=en&hide=html,scss,stylus,blade,jupyter%20notebook,python,css,shell,batchfile,dockerfile"
                 alt="mie6996" /></td>
     </tr>
 </table>
