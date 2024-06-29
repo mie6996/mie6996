@@ -3,6 +3,7 @@
 - 🌱 I’m currently working with **Spring Boot**
 
 - 💬 Ask me about **Java, Spring Boot, TypeScript, NextJS, SEO**
+- 💼 Any freelance work? Do reach, [email](mailto:nguyenxuanphat060301@gmail.com) 
 
 
 <h2 align="center">Connect with me:</h2>
