@@ -3,10 +3,10 @@
 - 🌱 I’m currently working with **Spring Boot**
 
 - 💬 Ask me about **Java, Spring Boot, TypeScript, NextJS, SEO**
-- 💼 Any freelance work? Do reach, [email](mailto:nguyenxuanphat060301@gmail.com) 
+- 💼 Any freelance work? Do reach, [email](mailto:nguyenxuanphat060301@gmail.com) :)
 
 
-<h2 align="center">Connect with me:</h2>
+<h2 align="center">Connect with me</h2>
 <div align="center">
     <a href="https://www.linkedin.com/in/nguyenxuanphat/"><img alt="LinkedIn"
             src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -57,7 +57,7 @@
     
 </div>
 
-<h2 align="center">Tools:</h2>
+<h2 align="center">Tools</h2>
 <div align="center">
     <a href="https://postman.com" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40"
@@ -65,7 +65,7 @@
     </a>
 </div>
 
-📊 **This week I spent my time on:**
+📊 **This week I spent my time on**
 <!--START_SECTION:waka-->
 
 ```txt
