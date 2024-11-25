@@ -23,16 +23,17 @@
     </div>
     <div style="background: #2c2f33; padding: 15px; border-radius: 10px;">
         <h3>
-            <a href="https://gaixinh.mie6996.codes" style="color: #6DB33F; font-weight: bold; text-decoration: none;">Gai Xinh</a>
-        </h3>
-        <p style="color: #ffffff; margin: 0;">A fun project featuring curated photo collections.</p>
-    </div>
-    <div style="background: #2c2f33; padding: 15px; border-radius: 10px;">
-        <h3>
             <a href="https://easylearnword.com" style="color: #6DB33F; font-weight: bold; text-decoration: none;">Easy Learn Word</a>
         </h3>
         <p style="color: #ffffff; margin: 0;">A platform designed to make learning English vocabulary easier and more engaging.</p>
     </div>
+    <div style="background: #2c2f33; padding: 15px; border-radius: 10px;">
+        <h3>
+            <a href="https://gaixinh.mie6996.codes" style="color: #6DB33F; font-weight: bold; text-decoration: none;">Beautiful girls</a>
+        </h3>
+        <p style="color: #ffffff; margin: 0;">A fun project featuring curated photo collections.</p>
+    </div>
+    
 </div>
 
 <h2 align="center" style="color: #ffffff;">Technology Stack<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h2>
