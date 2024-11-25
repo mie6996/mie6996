@@ -13,6 +13,28 @@
             src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </div>
 
+<h2 align="center" style="color: #ffffff;">Projects</h2>
+<div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 20px; padding: 20px; text-align: center;">
+    <div style="background: #2c2f33; padding: 15px; border-radius: 10px;">
+        <h3>
+            <a href="https://tuanmotorbike.com" style="color: #6DB33F; font-weight: bold; text-decoration: none;">Tuan Motorbike</a>
+        </h3>
+        <p style="color: #ffffff; margin: 0;">A project showcasing motorbike services and rentals.</p>
+    </div>
+    <div style="background: #2c2f33; padding: 15px; border-radius: 10px;">
+        <h3>
+            <a href="https://gaixinh.mie6996.codes" style="color: #6DB33F; font-weight: bold; text-decoration: none;">Gai Xinh</a>
+        </h3>
+        <p style="color: #ffffff; margin: 0;">A fun project featuring curated photo collections.</p>
+    </div>
+    <div style="background: #2c2f33; padding: 15px; border-radius: 10px;">
+        <h3>
+            <a href="https://easylearnword.com" style="color: #6DB33F; font-weight: bold; text-decoration: none;">Easy Learn Word</a>
+        </h3>
+        <p style="color: #ffffff; margin: 0;">A platform designed to make learning English vocabulary easier and more engaging.</p>
+    </div>
+</div>
+
 <h2 align="center" style="color: #ffffff;">Technology Stack<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h2>
 <div align="center">
     <img alt="java"
