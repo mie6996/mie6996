@@ -93,10 +93,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Other             14 mins         ███████████████████░░░░░░   75.58 %
-Java              4 mins          ██████░░░░░░░░░░░░░░░░░░░   23.85 %
-Java Properties   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 %
-Batchfile         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+Other   14 mins         █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
