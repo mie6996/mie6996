@@ -33,7 +33,7 @@
     </div>
     <div style="background: #2c2f33; padding: 15px; border-radius: 10px;">
         <h3>
-            <a href="https://gaixinh.mie6996.codes" style="color: #6DB33F; font-weight: bold; text-decoration: none;">Beautiful girls</a>
+            <a href="https://hotgirl.mie6996.codes" style="color: #6DB33F; font-weight: bold; text-decoration: none;">Beautiful girls</a>
         </h3>
         <p style="color: #ffffff; margin: 0;">A fun project featuring curated photo collections.</p>
         <a href="https://github.com/mie6996/voz-image-crawler" target="_blank" style="color: #1da1f2;">View on GitHub</a>    
