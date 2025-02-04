@@ -1,3 +1,4 @@
+<link rel="stylesheet" href="Assets/styles.css" />
 <h1 align="center" style="color: #ffffff;">Hi there 👋, I'm <a href="https://fb.com/mie6996" target="_blank" style="color: #1da1f2;">Phat Nguyen</a></h1>
 
 - 🌱 I’m currently working with <span style="color: #6DB33F;">**Spring Boot**</span>
