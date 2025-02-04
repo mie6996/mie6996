@@ -1,4 +1,4 @@
-<link rel="stylesheet" href="{{ "assets/css/style.css" | relative_url }}">
+
 
 <h1 align="center" style="color: #ffffff;">Hi there 👋, I'm <a href="https://fb.com/mie6996" target="_blank" style="color: #1da1f2;">Phat Nguyen</a></h1>
 
